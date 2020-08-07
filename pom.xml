@@ -29,7 +29,7 @@
                     <plugin>
                         <groupId>com.destroystokyo</groupId>
                         <artifactId>paperclip-maven-plugin</artifactId>
-                        <version>1.0-SNAPSHOT</version>
+                        <version>1.0-20180823.234842-1</version>
                         <executions>
                             <execution>
                                 <goals>
@@ -104,8 +104,8 @@
     </repositories>
     <pluginRepositories>
         <pluginRepository>
-            <id>demonwav-repo</id>
-            <url>https://nexus.demonwav.com/content/repositories/snapshots/</url>
+            <id>papermc-repo</id>
+            <url>https://papermc.io/repo/repository/maven-public/</url>
         </pluginRepository>
     </pluginRepositories>
 
